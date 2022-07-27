@@ -1,3 +1,3 @@
 # OPS 201: Foundations of Computer Operations
 
-## Class 5:
+## Class 6
